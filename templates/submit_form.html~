@@ -1,0 +1,27 @@
+<html>
+  <body>
+    <form action = "/information">
+      First Name: <br>
+      <input type = "text" name = "firstname">
+
+      <br>
+      
+      Last Name: <br>
+      <input type = "text" name = "lastname">
+
+      <br>
+      
+      Username: <br>
+      <input type = "text" name = "username">
+
+      <br> 
+      Pick a cool adjective to describe yourself: <br>
+      <input type = "text" name = "adj">
+
+      <br>
+      <input type = "submit" value = "Submit"> 
+    </form>
+  </body>
+</html>
+    
+    

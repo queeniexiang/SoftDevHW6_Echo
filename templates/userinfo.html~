@@ -1,0 +1,22 @@
+<!--
+Queenie Xiang
+SoftDev1 pd7
+HW6 -- Echo Echo Echo 
+2017-10-02
+-->
+
+<html>
+  <body>
+    <center>
+      Hello {{adjective}} {{firstname}} {{lastname}}! <br>
+      Your username is: {{username}} <br><br>
+
+      Have a great day! <br>
+      <img src = /static/quokka.jpg> 
+    </center>
+  </body>
+</html>
+
+      
+      
+    
